@@ -1,0 +1,4 @@
+# https://www.youtube.com/watch?v=662JyNLVpxE
+
+User-agent: *
+Allow: /

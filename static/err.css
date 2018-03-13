@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+	background: #000;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+h1,h4 {
+	color: #FFF;
+}
+
+a {
+	color: #44AF69;
+	text-decoration: none;
+}
+
+span {
+	color: #FFF;
+}
+
+#quote {
+	color: #FFF;
+}
+
+.has-text-centered {
+	text-align: center;
+}
