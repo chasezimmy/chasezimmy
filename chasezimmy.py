@@ -2,7 +2,7 @@
 from flask import Flask, request, send_from_directory, render_template, jsonify
 import os
 import json
-from helper import Face
+from helper.face import Face
 
 app = Flask(__name__)
 face = Face()
