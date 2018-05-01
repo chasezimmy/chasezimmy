@@ -1,5 +1,7 @@
 *.wsgi
+chasezimmyenv/
 venv/
 .idea/
 *.json
 *.pyc
+wsgi.py
